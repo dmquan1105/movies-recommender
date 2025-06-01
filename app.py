@@ -5,6 +5,8 @@ from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_community.vectorstores import Chroma 
 from langchain_huggingface import HuggingFaceEmbeddings
+import os
+os.environ["STREAMLIT_WATCH_FILE"] = "false"
 
 @st.cache_data
 def load_movies():
