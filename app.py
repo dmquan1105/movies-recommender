@@ -77,6 +77,12 @@ selected_rating = st.sidebar.selectbox(
     ['All', '0.0 - 3.9', '4.0 - 5.9', '6.0 - 6.9', '7.0 - 8.4', '8.5 - 10.0']
 )
 
+# Dropdown duration filter with 4 categories
+selected_duration = st.sidebar.selectbox(
+    "Filter by Duration",
+    ['All', '0 - 60 minutes', '61 - 120 minutes', '121 - 180 minutes', '181+ minutes']
+)
+
 if search_query:
     filtered_movies = retrieve_movies(db_movies_vectorstore, filtered_movies, search_query)
     
@@ -89,6 +95,16 @@ if selected_rating != 'All':
         (filtered_movies['IMDB_Rating'] >= min_rating) & 
         (filtered_movies['IMDB_Rating'] <= max_rating)
     ]
+    
+if selected_duration != 'All':
+    if selected_duration == '0 - 60 minutes':
+        filtered_movies = filtered_movies[filtered_movies['Runtime'] <= 60]
+    elif selected_duration == '61 - 120 minutes':
+        filtered_movies = filtered_movies[(filtered_movies['Runtime'] > 60) & (filtered_movies['Runtime'] <= 120)]
+    elif selected_duration == '121 - 180 minutes':
+        filtered_movies = filtered_movies[(filtered_movies['Runtime'] > 120) & (filtered_movies['Runtime'] <= 180)]
+    elif selected_duration == '181+ minutes':
+        filtered_movies = filtered_movies[filtered_movies['Runtime'] > 180]
     
 st.subheader("Recommended Movies")
 if not filtered_movies.empty:
