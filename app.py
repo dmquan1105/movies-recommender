@@ -1,3 +1,6 @@
+import os
+os.environ["STREAMLIT_WATCH_FILE"] = "false"
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -5,8 +8,6 @@ from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
 from langchain_community.vectorstores import Chroma 
 from langchain_huggingface import HuggingFaceEmbeddings
-import os
-os.environ["STREAMLIT_WATCH_FILE"] = "false"
 
 @st.cache_data
 def load_movies():
@@ -109,8 +110,13 @@ if selected_duration != 'All':
         filtered_movies = filtered_movies[filtered_movies['Runtime'] > 180]
     
 st.subheader("Recommended Movies")
+
+if "movies_to_display" not in st.session_state:
+    st.session_state.movies_to_display = 10  
+
+# Display movies
 if not filtered_movies.empty:
-    for _, row in filtered_movies.iterrows():
+    for _, row in filtered_movies.head(st.session_state.movies_to_display).iterrows():
         poster_url = row['Poster_Link'] if is_valid_image(row['Poster_Link']) else 'poster_not_avail.png'
         st.image(poster_url, width=150)
         st.markdown(
@@ -120,5 +126,9 @@ if not filtered_movies.empty:
             f"📖 **Overview**: {row['Overview']}"
         )
         st.markdown("---")
+
+    if st.session_state.movies_to_display < len(filtered_movies):
+        if st.button("Load More"):
+            st.session_state.movies_to_display += 10  
 else:
     st.write("No movies found matching your criteria.")
