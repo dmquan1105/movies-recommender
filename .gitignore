@@ -14,6 +14,10 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Ignore database or vectorstore folders
+db/
+*.sqlite3
+
 # VSCode or IDE folders
 .vscode/
 .idea/
