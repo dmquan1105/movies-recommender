@@ -1,0 +1,749 @@
+0 The Shawshank Redemption Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+1 The Godfather An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.
+2 The Dark Knight When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+3 The Godfather: Part II The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.
+4 12 Angry Men A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.
+5 The Lord of the Rings: The Return of the King Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.
+6 Pulp Fiction The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+7 Schindler's List In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.
+8 Inception A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+9 Fight Club An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+10 The Lord of the Rings: The Fellowship of the Ring A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+11 Forrest Gump The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.
+12 Il buono, il brutto, il cattivo A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.
+13 The Lord of the Rings: The Two Towers While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.
+14 The Matrix When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.
+15 Goodfellas The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+16 Star Wars: Episode V - The Empire Strikes Back After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.
+17 One Flew Over the Cuckoo's Nest A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.
+18 Gisaengchung Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.
+19 Interstellar A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+20 Cidade de Deus In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.
+21 Sen to Chihiro no kamikakushi During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.
+22 Saving Private Ryan Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.
+23 The Green Mile The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.
+24 La vita è bella When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.
+25 Se7en Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.
+26 The Silence of the Lambs A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.
+27 Star Wars Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+28 Shichinin no samurai A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.
+29 Joker In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.
+30 Whiplash A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.
+31 The Intouchables After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.
+32 The Prestige After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.
+33 The Departed An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+34 The Pianist A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.
+35 Gladiator A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+36 American History X A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.
+37 The Usual Suspects A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.
+38 Léon Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.
+39 The Lion King Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.
+40 Terminator 2: Judgment Day A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.
+41 Nuovo Cinema Paradiso A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.
+42 Back to the Future Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.
+43 Once Upon a Time in the West A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.
+44 Psycho A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.
+45 Casablanca A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.
+46 Modern Times The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
+47 City Lights With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.
+48 Capharnaüm While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.
+49 Kimi no na wa. Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
+50 Spider-Man: Into the Spider-Verse Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.
+51 Avengers: Endgame After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.
+52 Avengers: Infinity War The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+53 Coco Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+54 Django Unchained With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+55 The Dark Knight Rises Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.
+"56 3 Idiots Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them ""idiots""."
+57 WALL·E In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.
+58 The Lives of Others In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.
+59 Oldeuboi After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.
+60 Memento A man with short-term memory loss attempts to track down his wife's murderer.
+61 Mononoke-hime On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.
+62 Raiders of the Lost Ark In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.
+63 The Shining A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.
+64 Apocalypse Now A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.
+65 Alien After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.
+66 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.
+67 Rear Window A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.
+68 1917 April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.
+69 Jagten A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.
+70 Jodaeiye Nader az Simin A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.
+71 Incendies Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.
+72 Inglourious Basterds In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.
+73 Eternal Sunshine of the Spotless Mind When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.
+74 Amélie Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.
+75 Snatch Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.
+76 Requiem for a Dream The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.
+77 American Beauty A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+78 Good Will Hunting Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.
+"79 Bacheha-Ye aseman After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to ""win"" a new pair."
+80 Toy Story A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+81 Braveheart Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.
+82 Reservoir Dogs When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.
+83 Full Metal Jacket A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.
+84 Aliens Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.
+85 Amadeus The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.
+86 Scarface In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+87 Star Wars: Episode VI - Return of the Jedi After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.
+88 Das Boot The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.
+89 Taxi Driver A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.
+90 The Sting Two grifters team up to pull off the ultimate con.
+91 A Clockwork Orange In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.
+92 2001: A Space Odyssey After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.
+93 Per qualche dollaro in più Two bounty hunters with the same intentions team up to track down a Western outlaw.
+94 Lawrence of Arabia The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.
+95 The Apartment A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.
+96 North by Northwest A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.
+97 Vertigo A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.
+98 Singin' in the Rain A silent film production company and cast make a difficult transition to sound.
+99 Double Indemnity An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.
+100 Citizen Kane Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.
+101 Metropolis In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.
+102 Green Book A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.
+103 Three Billboards Outside Ebbing, Missouri A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+104 Mandariinid In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.
+105 El secreto de sus ojos A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.
+106 Warrior The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.
+107 Shutter Island In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.
+108 Up 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.
+109 The Wolf of Wall Street Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.
+110 Chak De! India Kabir Khan is the coach of the Indian Women's National Hockey Team and his dream is to make his all girls team emerge victorious against all odds.
+111 There Will Be Blood A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.
+112 Pan's Labyrinth In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.
+113 Toy Story 3 The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
+"114 V for Vendetta In a future British tyranny, a shadowy freedom fighter, known only by the alias of ""V"", plots to overthrow it with the help of a young woman."
+115 Batman Begins After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.
+116 Der Untergang Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.
+117 Hauru no ugoku shiro When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.
+118 A Beautiful Mind After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.
+119 Lock, Stock and Two Smoking Barrels A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.
+120 L.A. Confidential As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.
+121 Heat A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.
+122 Casino A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.
+"123 Unforgiven Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The ""Schofield Kid."""
+"124 Indiana Jones and the Last Crusade In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry ""Indiana"" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers."
+125 Tonari no Totoro When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+126 Die Hard An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.
+127 Ran In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.
+128 Raging Bull The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.
+129 Monty Python and the Holy Grail King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.
+130 The Great Escape Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.
+131 Some Like It Hot After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.
+132 Du rififi chez les hommes Four men plan a technically perfect crime, but the human element intervenes...
+133 Dial M for Murder A former tennis player tries to arrange his wife's murder after learning of her affair.
+134 Rashômon The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.
+135 All About Eve A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.
+136 The Treasure of the Sierra Madre Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.
+137 Portrait de la jeune fille en feu On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.
+138 Ah-ga-ssi A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.
+139 Mommy A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.
+140 Logan In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.
+141 Room Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.
+142 Relatos salvajes Six short stories that explore the extremities of human behavior involving people in distress.
+143 Kis Uykusu A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.
+144 The Grand Budapest Hotel A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.
+145 Gone Girl With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.
+146 Hacksaw Ridge World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.
+147 Inside Out After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.
+148 12 Years a Slave In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.
+149 Rush The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
+150 Ford v Ferrari American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.
+151 Spotlight The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.
+152 Song of the Sea Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.
+153 Prisoners When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.
+154 Mad Max: Fury Road In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.
+155 Gran Torino Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.
+156 Harry Potter and the Deathly Hallows: Part 2 Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.
+157 Okuribito A newly unemployed cellist takes a job preparing the dead for funerals.
+158 How to Train Your Dragon A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.
+159 Into the Wild After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.
+160 No Country for Old Men Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.
+161 Million Dollar Baby A determined woman works with a hardened boxing trainer to become a professional.
+162 Hotel Rwanda Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.
+163 Taegukgi hwinalrimyeo When two brothers are forced to fight in the Korean War, the elder decides to take the riskiest missions if it will help shield the younger from battle.
+164 Before Sunset Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.
+165 Salinui chueok In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.
+166 Kill Bill: Vol. 1 After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.
+167 Finding Nemo After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.
+168 Catch Me If You Can Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.
+169 Amores perros A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.
+170 Monsters, Inc. In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.
+171 Lagaan: Once Upon a Time in India The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.
+172 The Sixth Sense A boy who communicates with spirits seeks the help of a disheartened child psychologist.
+173 La leggenda del pianista sull'oceano A baby boy, discovered in 1900 on an ocean liner, grows into a musical prodigy, never setting foot on land.
+174 The Truman Show An insurance salesman discovers his whole life is actually a reality TV show.
+175 Crna macka, beli macor Matko and his son Zare live on the banks of the Danube river and get by through hustling and basically doing anything to make a living. In order to pay off a business debt Matko agrees to marry off Zare to the sister of a local gangster.
+"176 The Big Lebowski Jeff ""The Dude"" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it."
+177 Fa yeung nin wah Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.
+178 Trainspotting Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.
+179 Fargo Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+180 Before Sunrise A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.
+181 Trois couleurs: Rouge A model discovers a retired judge is keen on invading people's privacy.
+182 Chung Hing sam lam Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal server at a late-night restaurant he frequents.
+183 Jurassic Park A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+184 In the Name of the Father A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
+185 Dead Poets Society Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.
+186 Stand by Me After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.
+187 Platoon Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.
+188 Paris, Texas Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.
+189 Kaze no tani no Naushika Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.
+190 The Thing A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+191 Pink Floyd: The Wall A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.
+192 Fanny och Alexander Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.
+193 Blade Runner A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+194 Life of Brian Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.
+195 The Deer Hunter An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.
+196 Rocky A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
+197 Chinatown A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.
+198 Paper Moon During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.
+199 Cool Hand Luke A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.
+200 La battaglia di Algeri In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.
+201 What Ever Happened to Baby Jane? A former child star torments her paraplegic sister in their decaying Hollywood mansion.
+202 Ben-Hur After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.
+203 The Bridge on the River Kwai British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.
+204 On the Waterfront An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.
+205 Ace in the Hole A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into an out-of-control circus.
+206 The Third Man Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.
+207 The Shop Around the Corner Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other's anonymous pen pal.
+208 Rebecca A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.
+209 Mr. Smith Goes to Washington A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.
+210 Gone with the Wind A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+211 It Happened One Night A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.
+212 La La Land While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+213 Lion A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.
+214 The Martian An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.
+215 Zootopia In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.
+216 Kaguyahime no monogatari Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her, but ultimately she must confront her fate, the punishment for her crime.
+217 Wonder Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.
+218 Gully Boy A coming-of-age story based on the lives of street rappers in Mumbai.
+219 Short Term 12 A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend.
+220 Serbuan maut 2: Berandal Only a short time after the first raid, Rama goes undercover with the thugs of Jakarta and plans to bring down the syndicate and uncover the corruption within his police force.
+221 The Imitation Game During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.
+222 Guardians of the Galaxy A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
+223 Blade Runner 2049 Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.
+224 Her In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.
+225 Bohemian Rhapsody The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).
+226 The Revenant A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+227 The Perks of Being a Wallflower An introvert freshman is taken under the wings of two seniors who welcome him to the real world
+228 Tropa de Elite 2: O Inimigo Agora é Outro After a prison riot, former-Captain Nascimento, now a high ranking security officer in Rio de Janeiro, is swept into a bloody political dispute that involves government officials and paramilitary groups.
+229 The King's Speech The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.
+230 The Help An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.
+231 Deadpool A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.
+232 Darbareye Elly The mysterious disappearance of a kindergarten teacher during a picnic in the north of Iran is followed by a series of misadventures for her fellow travelers.
+233 My Name Is Khan An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.
+"234 Slumdog Millionaire A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of ""Who Wants to be a Millionaire?""."
+"235 Black Swan A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's ""Swan Lake""."
+236 Tropa de Elite In 1997 Rio de Janeiro, Captain Nascimento has to find a substitute for his position while trying to take down drug dealers and criminals before the Pope visits.
+237 The Avengers Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+238 Persepolis A precocious and outspoken Iranian girl grows up during the Islamic Revolution.
+239 Dallas Buyers Club In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.
+240 The Pursuit of Happyness A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.
+241 Blood Diamond A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.
+242 The Bourne Ultimatum Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.
+243 Bin-jip A transient young man breaks into empty homes to partake of the vacationing residents' lives for a few days.
+244 Sin City A movie that explores the dark and miserable town, Basin City, tells the story of three different people, all caught up in violent corruption.
+245 Le scaphandre et le papillon The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.
+246 Ratatouille A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.
+247 Casino Royale After earning 00 status and a licence to kill, Secret Agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.
+248 Kill Bill: Vol. 2 The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.
+249 Vozvrashchenie In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.
+250 Bom Yeoareum Gaeul Gyeoul Geurigo Bom A boy is raised by a Buddhist monk in an isolated floating temple where the years pass like the seasons.
+251 Mar adentro The factual story of Spaniard Ramon Sampedro, who fought a thirty-year campaign in favor of euthanasia and his own right to die.
+252 Cinderella Man The story of James J. Braddock, a supposedly washed-up boxer who came back to become a champion and an inspiration in the 1930s.
+253 Kal Ho Naa Ho Naina, an introverted, perpetually depressed girl's life changes when she meets Aman. But Aman has a secret of his own which changes their lives forever. Embroiled in all this is Rohit, Naina's best friend who conceals his love for her.
+254 Mou gaan dou A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.
+"255 Pirates of the Caribbean: The Curse of the Black Pearl Blacksmith Will Turner teams up with eccentric pirate ""Captain"" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead."
+256 Big Fish A frustrated son tries to determine the fact from fiction in his dying father's life.
+257 The Incredibles A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.
+258 Dogville A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town she finds out that their support has a price.
+259 Donnie Darko After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.
+260 Magnolia An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.
+261 Dancer in the Dark An East European girl travels to the United States with her young son, expecting it to be like a Hollywood film.
+262 The Straight Story An old man makes a long journey by lawnmower to mend his relationship with an ill brother.
+263 Festen At Helge's 60th birthday party, some unpleasant family truths are revealed.
+264 Central do Brasil An emotive journey of a former school teacher, who writes letters for illiterate people, and a young boy, whose mother has just died, as they search for the father he never knew.
+265 The Iron Giant A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
+266 Sling Blade Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.
+267 Secrets & Lies Following the death of her adoptive parents, a successful young black optometrist establishes contact with her biological mother -- a lonely white factory worker living in poverty in East London.
+268 Twelve Monkeys In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+269 Kôkaku Kidôtai A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.
+270 The Nightmare Before Christmas Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.
+271 Groundhog Day A weatherman finds himself inexplicably living the same day over and over again.
+272 Bound by Honor Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on step-brothers Paco and Cruz, and their bi-racial cousin Miklo.
+"273 Scent of a Woman A prep school student needing money agrees to ""babysit"" a blind man, but the job is not at all what he anticipated."
+274 Aladdin A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.
+275 JFK New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.
+276 Beauty and the Beast A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.
+277 Dances with Wolves Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.
+278 Do the Right Thing On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.
+279 Rain Man Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.
+280 The Princess Bride While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.
+281 Der Himmel über Berlin An angel tires of overseeing human activity and wishes to become human when he falls in love with a mortal.
+282 Au revoir les enfants A French boarding school run by priests seems to be a haven from World War II until a new student arrives. He becomes the roommate of the top student in his class. Rivals at first, the roommates form a bond and share a secret.
+283 The Terminator A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.
+284 Gandhi The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.
+285 Being There A simpleminded, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.
+286 Annie Hall Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.
+287 Jaws When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+288 Dog Day Afternoon Three amateur bank robbers plan to hold up a bank. A nice simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wrong does.
+289 Young Frankenstein An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.
+290 Papillon A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.
+291 The Exorcist When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.
+292 The Last Picture Show In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.
+293 Fiddler on the Roof In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.
+294 Il conformista A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.
+295 Butch Cassidy and the Sundance Kid Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.
+296 Planet of the Apes An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.
+297 The Graduate A disillusioned college graduate finds himself torn between his older lover and her daughter.
+298 The Sound of Music A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.
+299 Doctor Zhivago The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.
+300 Per un pugno di dollari A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.
+301 8½ A harried movie director retreats into his memories and fantasies.
+302 The Hustler An up-and-coming pool player plays a long-time champion in a single high-stakes match.
+303 La dolce vita A series of stories following a week in the life of a philandering paparazzo journalist living in Rome.
+304 Rio Bravo A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.
+305 Anatomy of a Murder In a murder trial, the defendant says he suffered temporary insanity after the victim raped his wife. What is the truth, and will he win his case?
+306 Touch of Evil A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.
+307 Cat on a Hot Tin Roof Brick is an alcoholic ex-football player who drinks his days away and resists the affections of his wife. A reunion with his terminal father jogs a host of memories and revelations for both father and son.
+308 The Night of the Hunter A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid the $10,000 he'd stolen in a robbery.
+309 A Streetcar Named Desire Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.
+310 The Best Years of Our Lives Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.
+311 The Maltese Falcon A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.
+312 The Grapes of Wrath A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.
+313 The Wizard of Oz Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.
+314 All Quiet on the Western Front A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.
+315 Bronenosets Potemkin In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel's officers. The resulting street demonstration in Odessa brings on a police massacre.
+316 Knives Out A detective investigates the death of a patriarch of an eccentric, combative family.
+317 Manbiki kazoku A family of small-time crooks take in a child they find outside in the cold.
+318 Marriage Story Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.
+319 Call Me by Your Name In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant.
+320 I, Daniel Blake After having suffered a heart-attack, a 59-year-old carpenter must fight the bureaucratic forces of the system in order to receive Employment and Support Allowance.
+321 Isle of Dogs Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.
+322 Hunt for the Wilderpeople A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.
+323 Captain Fantastic In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.
+324 Sing Street A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.
+325 Thor: Ragnarok Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.
+326 Nightcrawler When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story.
+327 Jojo Rabbit A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.
+328 Arrival A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.
+329 Star Wars: Episode VII - The Force Awakens As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.
+330 Before Midnight We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna.
+331 X-Men: Days of Future Past The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.
+332 Bir Zamanlar Anadolu'da A group of men set out in search of a dead body in the Anatolian steppes.
+333 The Artist An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.
+334 Edge of Tomorrow A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.
+335 Amour Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.
+336 The Irishman An old man recalls his time painting houses for his friend, Jimmy Hoffa, through the 1950-70s.
+337 Un prophète A young Arab man is sent to a French prison.
+338 Moon Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
+339 Låt den rätte komma in Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.
+340 District 9 Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.
+341 The Wrestler A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.
+342 Boyhood The life of Mason, from early childhood to his arrival at college.
+343 4 luni, 3 saptamâni si 2 zile A woman assists her friend in arranging an illegal abortion in 1980s Romania.
+344 Star Trek The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.
+345 In Bruges Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.
+346 Letters from Iwo Jima The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.
+347 The Fall In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story of five mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances.
+348 Life of Pi A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
+349 Fantastic Mr. Fox An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.
+350 Les choristes The new teacher at a severely administered boys' boarding school works to positively affect the students' lives through music.
+351 Iron Man After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+352 Shaun of the Dead A man's uneventful life is disrupted by the zombie apocalypse.
+353 Mystic River The lives of three men who were childhood friends are shattered when one of them has a family tragedy.
+354 Harry Potter and the Prisoner of Azkaban Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.
+355 Ying xiong A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.
+356 Hable con ella Two men share an odd friendship while they care for two women who are both in deep comas.
+357 No Man's Land Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man's land, whilst a third soldier becomes a living booby trap.
+358 Cowboy Bebop: Tengoku no tobira A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit.
+359 The Bourne Identity A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.
+"360 Nueve reinas Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps (the ""nine queens"")."
+361 Children of Men In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
+362 Almost Famous A high-school boy is given the chance to write a story for Rolling Stone Magazine about an up-and-coming rock band as he accompanies them on their concert tour.
+363 Mulholland Dr. After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.
+364 Toy Story 2 When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.
+365 Boogie Nights Back when sex was safe, pleasure was a business and business was booming, an idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent.
+366 Once Were Warriors A family descended from Maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts.
+367 True Romance In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.
+368 Trois couleurs: Bleu A woman struggles to find a way to live her life after the death of her husband and child.
+369 Carlito's Way A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.
+370 Edward Scissorhands An artificial man, who was incompletely constructed and has scissors for hands, leads a solitary life. Then one day, a suburban lady meets him and introduces him to her world.
+371 My Left Foot: The Story of Christy Brown Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.
+372 Crimes and Misdemeanors An ophthalmologist's mistress threatens to reveal their affair to his wife while a married documentary filmmaker is infatuated with another woman.
+373 The Untouchables During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him.
+374 Hannah and Her Sisters Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.
+375 Brazil A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.
+376 This Is Spinal Tap Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.
+377 A Christmas Story In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the perfect Christmas gift.
+378 The Blues Brothers Jake Blues, just released from prison, puts together his old band to save the Catholic home where he and his brother Elwood were raised.
+379 Manhattan The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.
+380 All That Jazz Director/choreographer Bob Fosse tells his own life story as he details the sordid career of Joe Gideon, a womanizing, drug-using dancer.
+381 Dawn of the Dead Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.
+"382 All the President's Men ""The Washington Post"" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon's resignation."
+383 La montaña sagrada In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.
+384 Le charme discret de la bourgeoisie A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.
+385 Patton The World War II phase of the career of controversial American general George S. Patton.
+"386 The Wild Bunch An aging group of outlaws look for one last big score as the ""traditional"" American West is disappearing around them."
+387 Night of the Living Dead A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the East Coast of the United States.
+388 In the Heat of the Night A black police detective is asked to investigate a murder in a racially hostile southern town.
+389 Charade Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?
+390 Spartacus The slave Spartacus leads a violent revolt against the decadent Roman Republic.
+391 High Noon A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at high noon when the gang leader, an outlaw he sent up years ago, arrives on the noon train.
+392 Strangers on a Train A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.
+393 Miracle on 34th Street When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.
+394 Notorious A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?
+395 The Adventures of Robin Hood When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.
+396 King Kong A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.
+"397 Forushande While both participating in a production of ""Death of a Salesman,"" a teacher's wife is assaulted in her new home, which leaves him determined to find the perpetrator over his wife's traumatized objections."
+398 Dunkirk Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.
+399 Hidden Figures The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.
+400 Paddington 2 Paddington (Ben Whishaw), now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's (Imelda Staunton's) 100th birthday, only for the gift to be stolen.
+401 Kubo and the Two Strings A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.
+402 Manchester by the Sea A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.
+403 Under sandet In post-World War II Denmark, a group of young German POWs are forced to clear a beach of thousands of land mines under the watch of a Danish Sergeant who slowly learns to appreciate their plight.
+404 Rogue One The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the plans for the Death Star.
+405 Captain America: Civil War Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.
+406 The Hateful Eight In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.
+407 Little Women Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.
+408 Loving Vincent In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh (Robert Gulaczyk) to deliver the troubled artist's final letter and ends up investigating his final days there.
+409 Le passé An Iranian man deserts his French wife and her two children to return to his homeland. Meanwhile, his wife starts up a new relationship, a reality her husband confronts upon his wife's request for a divorce.
+410 La grande bellezza Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.
+411 The Lunchbox A mistaken delivery in Mumbai's famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.
+412 Big Hero 6 A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.
+413 About Time At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.
+414 Kaze tachinu A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.
+"415 Toy Story 4 When a new toy called ""Forky"" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy."
+416 La migliore offerta A lonely art expert working for a mysterious and reclusive heiress finds not only her art worth examining.
+417 Moonrise Kingdom A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.
+418 How to Train Your Dragon 2 When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.
+419 The Big Short In 2006-2007 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is.
+420 Ang-ma-reul bo-at-da A secret agent exacts revenge on a serial killer through a series of captures and releases.
+421 The Girl with the Dragon Tattoo Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.
+422 Captain Phillips The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.
+423 Straight Outta Compton The rap group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.
+424 Madeo A mother desperately searches for the killer who framed her son for a girl's horrific murder.
+425 The Hobbit: The Desolation of Smaug The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.
+426 Das weiße Band - Eine deutsche Kindergeschichte Strange events happen in a small village in the north of Germany during the years before World War I, which seem to be ritual punishment. Who is responsible?
+427 Män som hatar kvinnor A journalist is aided by a young female hacker in his search for the killer of a woman who has been dead for forty years.
+428 The Fighter Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness.
+429 Taken A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.
+430 The Boy in the Striped Pyjamas Through the innocent eyes of Bruno, the eight-year-old son of the commandant at a German concentration camp, a forbidden friendship with a Jewish boy on the other side of the camp fence has startling and unexpected consequences.
+431 Once A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.
+432 The Hobbit: An Unexpected Journey A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.
+433 Auf der anderen Seite A Turkish man travels to Istanbul to find the daughter of his father's former girlfriend.
+434 Atonement Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.
+435 Drive A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.
+436 American Gangster An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.
+437 Avatar A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
+438 Mr. Nobody A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+439 Apocalypto As the Mayan kingdom faces its decline, a young man is taken on a perilous journey to a world ruled by fear and oppression.
+440 Little Miss Sunshine A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.
+441 Hot Fuzz A skilled London police officer is transferred to a small town with a dark secret.
+442 The Curious Case of Benjamin Button Tells the story of Benjamin Button, a man who starts aging backwards with consequences.
+443 Veer-Zaara Veer-Zaara is a saga of love, separation, courage and sacrifice. A love story that is an inspiration and will remain a legend forever.
+444 Adams æbler A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.
+445 Pride & Prejudice Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?
+446 The World's Fastest Indian The story of New Zealander Burt Munro, who spent years rebuilding a 1920 Indian motorcycle, which helped him set the land speed world record at Utah's Bonneville Salt Flats in 1967.
+447 Tôkyô goddofâzâzu On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.
+448 Serenity The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.
+449 Walk the Line A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.
+450 Ondskan A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.
+451 The Notebook A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.
+452 Diarios de motocicleta The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling.
+453 Lilja 4-ever Sixteen-year-old Lilja and her only friend, the young boy Volodja, live in Russia, fantasizing about a better life. One day, Lilja falls in love with Andrej, who is going to Sweden, and invites Lilja to come along and start a new life.
+454 Les triplettes de Belleville When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters--an aged song-and-dance team from the days of Fred Astaire--to rescue him.
+"455 The Count of Monte Cristo A young man, falsely imprisoned by his jealous ""friend"", escapes and uses a hidden treasure to exact his revenge."
+456 Waking Life A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.
+457 Remember the Titans The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
+458 Wo hu cang long A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.
+459 Todo sobre mi madre Young Esteban wants to become a writer and also to discover the identity of his second mother, a trans woman, carefully concealed by his mother Manuela.
+460 Cast Away A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.
+461 The Boondock Saints Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.
+462 The Insider A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.
+463 October Sky The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.
+464 Shrek A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.
+465 Titanic A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+466 Gattaca A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
+467 The Game After a wealthy banker is given an opportunity to participate in a mysterious game, his life is turned upside down when he becomes unable to distinguish between the game and reality.
+468 Breaking the Waves Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.
+469 Ed Wood Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams, despite his lack of talent.
+470 What's Eating Gilbert Grape A young man in a small Midwestern town struggles to care for his mentally-disabled younger brother and morbidly obese mother while attempting to pursue his own happiness.
+471 Tombstone A successful lawman's plans to retire anonymously in Tombstone, Arizona are disrupted by the kind of outlaws he was famous for eliminating.
+472 The Sandlot In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.
+473 The Remains of the Day A butler who sacrificed body and soul to service in the years leading up to World War II realizes too late how misguided his loyalty was to his lordly employer.
+474 Naked Parallel tales of two sexually obsessed men, one hurting and annoying women physically and mentally, one wandering around the city talking to strangers and experiencing dimensions of life.
+475 The Fugitive Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.
+476 A Bronx Tale A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.
+477 Night on Earth An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.
+478 La double vie de Véronique Two parallel stories about two identical women; one living in Poland, the other in France. They don't know each other, but their lives are nevertheless profoundly connected.
+479 Boyz n the Hood Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects.
+480 Misery After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.
+481 Awakenings The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them.
+482 Glory Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.
+483 Back to the Future Part II After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip.
+484 Mississippi Burning Two F.B.I. Agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.
+485 Predator A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.
+486 Evil Dead II The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.
+487 Ferris Bueller's Day Off A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.
+488 Down by Law Two men are framed and sent to jail, where they meet a murderer who helps them escape and leave the state.
+489 The Goonies A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.
+490 The Color Purple A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.
+491 The Breakfast Club Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.
+492 The Killing Fields A journalist is trapped in Cambodia during tyrant Pol Pot's bloody 'Year Zero' cleansing campaign, which claimed the lives of two million 'undesirable' civilians.
+493 Ghostbusters Three former parapsychology professors set up shop as a unique ghost removal service.
+494 The Right Stuff The story of the original Mercury 7 astronauts and their macho, seat-of-the-pants approach to the space program.
+495 The King of Comedy Rupert Pupkin is a passionate yet unsuccessful comic who craves nothing more than to be in the spotlight and to achieve this, he stalks and kidnaps his idol to take the spotlight for himself.
+496 E.T. the Extra-Terrestrial A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.
+497 Kramer vs. Kramer Ted Kramer's wife leaves him, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple's son, deepening the wounds left by the separation.
+498 The Outlaw Josey Wales Missouri farmer Josey Wales joins a Confederate guerrilla unit and winds up on the run from the Union soldiers who murdered his family.
+499 The Conversation A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.
+500 La planète sauvage On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.
+"501 The Day of the Jackal A professional assassin codenamed ""Jackal"" plots to kill Charles de Gaulle, the President of France."
+502 Cabaret A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.
+503 Willy Wonka & the Chocolate Factory A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.
+504 Midnight Cowboy A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.
+505 Wait Until Dark A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.
+506 Guess Who's Coming to Dinner A couple's attitudes are challenged when their daughter introduces them to her African-American fiancé.
+507 My Fair Lady Snobbish phonetics Professor Henry Higgins agrees to a wager that he can make flower girl Eliza Doolittle presentable in high society.
+508 Mary Poppins In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.
+509 The Longest Day The events of D-Day, told on a grand scale from both the Allied and German points of view.
+510 The Innocents A young governess for two children becomes convinced that the house and grounds are haunted.
+511 Bride of Frankenstein Mary Shelley reveals the main characters of her novel survived: Dr. Frankenstein, goaded by an even madder scientist, builds his monster a mate.
+512 God's Own Country Spring. Yorkshire. Young farmer Johnny Saxby numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker for lambing season ignites an intense relationship that sets Johnny on a new path.
+513 Deadpool 2 Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.
+514 Wind River A veteran hunter helps an FBI agent investigate the murder of a young woman on a Wyoming Native American reservation.
+515 Get Out A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.
+516 Mission: Impossible - Fallout Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.
+517 En man som heter Ove Ove, an ill-tempered, isolated retiree who spends his days enforcing block association rules and visiting his wife's grave, has finally given up on life just as an unlikely friendship develops with his boisterous new neighbors.
+518 What We Do in the Shadows Viago, Deacon and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs and overcoming flatmate conflicts.
+519 Omoide no Mânî Due to 12 y.o. Anna's asthma, she's sent to stay with relatives of her guardian in the Japanese countryside. She likes to be alone, sketching. She befriends Marnie. Who is the mysterious, blonde Marnie.
+520 The Theory of Everything A look at the relationship between the famous physicist Stephen Hawking and his wife.
+521 Kingsman: The Secret Service A spy organisation recruits a promising street kid into the agency's training program, while a global threat emerges from a twisted tech genius.
+522 The Fault in Our Stars Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.
+523 Me and Earl and the Dying Girl High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer.
+524 Birdman or (The Unexpected Virtue of Ignorance) A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.
+525 La vie d'Adèle Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Adèle grows, seeks herself, loses herself, and ultimately finds herself through love and loss.
+526 Kai po che! Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country's next cricket stars.
+527 The Broken Circle Breakdown Elise and Didier fall in love at first sight, in spite of their differences. He talks, she listens. He's a romantic atheist, she's a religious realist. When their daughter becomes seriously ill, their love is put on trial.
+528 Captain America: The Winter Soldier As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.
+529 Nebraska An aging, booze-addled father makes the trip from Montana to Nebraska with his estranged son in order to claim a million-dollar Mega Sweepstakes Marketing prize.
+530 Wreck-It Ralph A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.
+531 Le Petit Prince A little girl lives in a very grown-up world with her mother, who tries to prepare her for it. Her neighbor, the Aviator, introduces the girl to an extraordinary world where anything is possible, the world of the Little Prince.
+532 Detachment A substitute teacher who drifts from classroom to classroom finds a connection to the students and teachers during his latest assignment.
+533 Midnight in Paris While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.
+"534 The Lego Movie An ordinary LEGO construction worker, thought to be the prophesied as ""special"", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis."
+535 Gravity Two astronauts work together to survive after an accident leaves them stranded in space.
+536 Star Trek Into Darkness After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.
+537 Beasts of No Nation A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.
+538 The Social Network As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.
+539 X: First Class In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik's vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.
+540 The Hangover Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.
+541 Skyfall James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.
+542 Silver Linings Playbook After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.
+543 Argo Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.
+544 (500) Days of Summer An offbeat romantic comedy about a woman who doesn't believe true love exists, and the young man who falls for her.
+545 Harry Potter and the Deathly Hallows: Part 1 As Harry, Ron, and Hermione race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows.
+546 Gake no ue no Ponyo A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.
+547 Frost/Nixon A dramatic retelling of the post-Watergate television interviews between British talk-show host David Frost and former president Richard Nixon.
+548 Papurika When a machine that allows therapists to enter their patients' dreams is stolen, all Hell breaks loose. Only a young female therapist, Paprika, can stop it.
+549 Changeling Grief-stricken mother Christine Collins (Angelina Jolie) takes on the L.A.P.D. to her own detriment when it tries to pass off an obvious impostor as her missing child.
+550 Flipped Two eighth-graders start to have feelings for each other despite being total opposites.
+551 This Is England A young boy becomes friends with a gang of skinheads. Friends soon become like family, and relationships will be pushed to the very limit.
+552 Ex Machina A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.
+553 Efter brylluppet A manager of an orphanage in India is sent to Copenhagen, Denmark, where he discovers a life-altering family secret.
+554 The Last King of Scotland Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.
+555 Zodiac In the late 1960s/early 1970s, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.
+556 Lucky Number Slevin A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's most rival crime bosses. Under constant surveillance by Detective Brikowski and assassin Goodkat, he must get them before they get him.
+557 Joyeux Noël In December 1914, an unofficial Christmas truce on the Western Front allows soldiers from opposing sides of the First World War to gain insight into each other's way of life.
+558 Control A profile of Ian Curtis, the enigmatic singer of Joy Division whose personal, professional, and romantic troubles led him to commit suicide at the age of 23.
+559 Tangled The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.
+560 Zwartboek In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.
+561 Brokeback Mountain The story of a forbidden and secretive relationship between two cowboys, and their lives over the years.
+562 3:10 to Yuma A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.
+563 Crash Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.
+"564 Kung fu In Shanghai, China in the 1940s, a wannabe gangster aspires to join the notorious ""Axe Gang"" while residents of a housing complex exhibit extraordinary powers in defending their turf."
+565 The Bourne Supremacy When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.
+566 The Machinist An industrial worker who hasn't slept in a year begins to doubt his own sanity.
+567 Ray The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.
+568 Lost in Translation A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.
+569 Harry Potter and the Goblet of Fire Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.
+570 Man on Fire In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect.
+571 Coraline An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.
+572 The Last Samurai An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.
+573 The Magdalene Sisters Three young Irish women struggle to maintain their spirits while they endure dehumanizing abuse as inmates of a Magdalene Sisters Asylum.
+574 Good Bye Lenin! In 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.
+575 In America A family of Irish immigrants adjust to life on the mean streets of Hell's Kitchen while also grieving the death of a child.
+576 I Am Sam A mentally handicapped man fights for custody of his 7-year-old daughter and in the process teaches his cold-hearted lawyer the value of love and family.
+577 Adaptation. A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.
+578 Black Hawk Down 160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
+579 Road to Perdition A mob enforcer's son witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge.
+"580 Das Experiment For two weeks, 20 male participants are hired to play prisoners and guards in a prison. The ""prisoners"" have to follow seemingly mild rules, and the ""guards"" are told to retain order without using physical violence."
+581 Billy Elliot A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.
+582 Hedwig and the Angry Inch A gender-queer punk-rock singer from East Berlin tours the U.S. with her band as she tells her life story and follows the former lover/band-mate who stole her songs.
+583 Ocean's Eleven Danny Ocean and his ten accomplices plan to rob three Las Vegas casinos simultaneously.
+584 Vampire Hunter D: Bloodlust When a girl is abducted by a vampire, a legendary bounty hunter is hired to bring her back.
+585 O Brother, Where Art Thou? In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.
+586 South Park: Bigger, Longer & Uncut When Stan Marsh and his friends go see an R-rated movie, they start cursing and their parents think that Canada is to blame.
+587 Office Space Three company workers who hate their jobs decide to rebel against their greedy boss.
+588 Happiness The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts society as a whole might find disturbing in a desperate search for human connection.
+589 Training Day A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be.
+590 Rushmore The extracurricular king of Rushmore Preparatory School is put on academic probation.
+591 Being John Malkovich A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.
+592 As Good as It Gets A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.
+593 The Fifth Element In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.
+594 Le dîner de cons A few friends have a weekly fools' dinner, where each brings a fool along. Pierre finds a champion fool for next dinner. Surprise.
+595 Donnie Brasco An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.
+596 Shine Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.
+597 Primal Fear An altar boy is accused of murdering a priest, and the truth is buried several layers deep.
+598 A Little Princess A young girl is relegated to servitude at a boarding school when her father goes missing and is presumed dead.
+599 Il postino A simple Italian postman learns to love poetry while delivering mail to a famous poet, and then uses this to woo local beauty Beatrice.
+600 Clerks A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.
+601 Short Cuts The day-to-day lives of several suburban Los Angeles residents.
+602 Philadelphia When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.
+603 The Muppet Christmas Carol The Muppet characters tell their version of the classic tale of an old and bitter miser's redemption on Christmas Eve.
+604 Malcolm X Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam.
+605 The Last of the Mohicans Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.
+606 Glengarry Glen Ross An examination of the machinations behind the scenes at a real estate office.
+607 A Few Good Men Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.
+608 Fried Green Tomatoes A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.
+609 Barton Fink A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.
+610 Miller's Crossing Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.
+611 Who Framed Roger Rabbit A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.
+612 Withnail & I In 1969, two substance-abusing, unemployed actors retreat to the countryside for a holiday that proves disastrous.
+613 The Last Emperor The story of the final Emperor of China.
+614 Empire of the Sun A young English boy struggles to survive under Japanese occupation during World War II.
+615 Der Name der Rose An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.
+616 Blue Velvet The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.
+617 The Purple Rose of Cairo In New Jersey in 1935, a movie character walks off the screen and into the real world.
+618 After Hours An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho who he met that evening at a coffee shop.
+619 The Verdict A lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.
+620 Star Trek II: The Wrath of Khan With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.
+621 First Blood A veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.
+622 Ordinary People The accidental death of the older son of an affluent family deeply strains the relationships among the bitter mother, the good-natured father, and the guilt-ridden younger son.
+623 Airplane! A man afraid to fly must ensure that a plane lands safely after the pilots become sick.
+624 Halloween Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.
+625 Le locataire A bureaucrat rents a Paris apartment where he finds himself drawn into a rabbit hole of dangerous paranoia.
+626 Blazing Saddles In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.
+627 Serpico An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.
+628 Enter the Dragon A secret agent comes to an opium lord's island fortress with other fighters for a martial-arts tournament.
+629 Deliverance Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country.
+630 The French Connection A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.
+"631 Dirty Harry When a madman calling himself ""the Scorpio Killer"" menaces the city, tough-as-nails San Francisco Police Inspector ""Dirty"" Harry Callahan is assigned to track down and ferret out the crazed psychopath."
+632 The Odd Couple Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day.
+633 The Dirty Dozen During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.
+634 A Man for All Seasons The story of Sir Thomas More, who stood up to King Henry VIII when the King rejected the Roman Catholic Church to obtain a divorce and remarry.
+635 Goldfinger While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.
+636 The Birds A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.
+637 The Magnificent Seven Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.
+638 Les yeux sans visage A surgeon causes an accident which leaves his daughter disfigured, and goes to extremes to give her a new face.
+639 The African Queen In WWI Africa, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.
+640 Fantasia A collection of animated interpretations of great works of Western classical music.
+641 Searching After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.
+642 Once Upon a Time... in Hollywood A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.
+643 Nelyubov A couple going through a divorce must team up to find their son who has disappeared during one of their bitter arguments.
+644 The Florida Project Set over one summer, the film follows precocious six-year-old Moonee as she courts mischief and adventure with her ragtag playmates and bonds with her rebellious but caring mother, all while living in the shadows of Walt Disney World.
+645 Gifted Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.
+646 The Peanut Butter Falcon Zak runs away from his care home to make his dream of becoming a wrestler come true.
+647 Mustang When five orphan girls are seen innocently playing with boys on a beach, their scandalized conservative guardians confine them while forced marriages are arranged.
+648 Guardians of the Galaxy Vol. 2 The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+649 Baby Driver After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
+650 Only the Brave Based on the true story of the Granite Mountain Hotshots, a group of elite firefighters who risk everything to protect a town from a historic wildfire.
+651 Bridge of Spies During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.
+652 Incredibles 2 The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.
+653 Moana In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+654 Sicario An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
+655 Creed The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.
+656 Leviafan In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man's arrival brings further misfortune for Kolya and his family.
+657 Hell or High Water A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family's ranch in West Texas.
+658 Philomena A world-weary political journalist picks up the story of a woman's search for her son, who was taken away from her decades ago after she became pregnant and was forced to live in a convent.
+659 Dawn of the Planet of the Apes A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.
+660 Serbuan maut A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.
+661 End of Watch Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and friends, and what happens when they meet criminal forces greater than themselves.
+662 Kari-gurashi no Arietti The Clock family are four-inch-tall people who live anonymously in another family's residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.
+663 A Star Is Born A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.
+664 True Grit A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.
+665 Hævnen The lives of two Danish families cross each other, and an extraordinary but risky friendship comes into bud. But loneliness, frailty and sorrow lie in wait.
+666 Despicable Me When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.
+667 50/50 Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.
+668 Kick-Ass Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.
+669 Moneyball Oakland A's general manager Billy Beane's successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.
+670 La piel que habito A brilliant plastic surgeon, haunted by past tragedies, creates a type of synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.
+671 Zombieland A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.
+672 Sherlock Holmes Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.
+673 The Blind Side The story of Michael Oher, a homeless and traumatized boy who became an All-American football player and first-round NFL draft pick with the help of a caring woman and her family.
+674 The Visitor A college professor travels to New York City to attend a conference and finds a young couple living in his apartment.
+675 Seven Pounds A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.
+676 Eastern Promises A teenager who dies during childbirth leaves clues in her journal that could tie her child to a rape involving a violent Russian mob family.
+677 Stardust In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm.
+678 The Secret of Kells A young boy in a remote medieval outpost under siege from barbarian raids is beckoned to adventure when a celebrated master illuminator arrives with an ancient book, brimming with secret wisdom and powers.
+679 Inside Man A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.
+680 Gone Baby Gone Two Boston area detectives investigate a little girl's kidnapping, which ultimately turns into a crisis both professionally and personally.
+681 La Vie En Rose Biopic of the iconic French singer Édith Piaf. Raised by her grandmother in a brothel, she was discovered while singing on a street corner at the age of 19. Despite her success, Piaf's life was filled with tragedy.
+682 Huo Yuan Jia A biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.
+683 The Illusionist In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.
+684 Dead Man's Shoes A disaffected soldier returns to his hometown to get even with the thugs who brutalized his mentally-challenged brother years ago.
+"685 Harry Potter and the Half-Blood Prince As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as ""the property of the Half-Blood Prince"" and begins to learn more about Lord Voldemort's dark past."
+686 300 King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.
+687 Match Point At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.
+688 Watchmen In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.
+689 Lord of War An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.
+690 Saw Two strangers awaken in a room with no recollection of how they got there, and soon discover they're pawns in a deadly game perpetrated by a notorious serial killer.
+691 Synecdoche, New York A theatre director struggles with his work, and the women in his life, as he creates a life-size replica of New York City inside a warehouse as part of his new play.
+692 Mysterious Skin A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.
+693 Jeux d'enfants As adults, best friends Julien and Sophie continue the odd game they started as children -- a fearless competition to outdo one another with daring and outrageous stunts. While they often act out to relieve one another's pain, their game might be a way to avoid the fact that they are truly meant for one another.
+694 Un long dimanche de fiançailles Tells the story of a young woman's relentless search for her fiancé, who has disappeared from the trenches of the Somme during World War One.
+695 The Station Agent When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.
+696 21 Grams A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.
+697 Boksuneun naui geot A recently laid off factory worker kidnaps his former boss' friend's daughter, hoping to use the ransom money to pay for his sister's kidney transplant.
+698 Finding Neverland The story of Sir J.M. Barrie's friendship with a family who inspired him to create Peter Pan.
+699 25th Hour Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.
+700 The Butterfly Effect Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.
+701 28 Days Later... Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.
+702 The Royal Tenenbaums The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.
+703 Y tu mamá también In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.
+704 Harry Potter and the Sorcerer's Stone An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.
+705 The Others A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted.
+706 Blow The story of how George Jung, along with the Medellín Cartel headed by Pablo Escobar, established the American cocaine market in the 1970s in the United States.
+707 Enemy at the Gates A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.
+708 Minority Report In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
+709 The Hurricane The story of Rubin 'Hurricane' Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.
+710 American Psycho A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.
+711 Lola rennt After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
+712 The Thin Red Line Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.
+713 Mulan To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.
+714 Fear and Loathing in Las Vegas An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
+715 Dark City A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.
+716 Sleepers After a prank goes disastrously wrong, a group of boys are sent to a detention center where they are brutalized. Thirteen years later, an unexpected random encounter with a former guard gives them a chance for revenge.
+717 Lost Highway Anonymous videotapes presage a musician's murder conviction, and a gangster's girlfriend leads a mechanic astray.
+718 Sense and Sensibility Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the title opposites.
+719 Die Hard: With a Vengeance John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building.
+720 Dead Man On the run after murdering a man, accountant William Blake encounters a strange aboriginal American man named Nobody who prepares him for his journey into the spiritual world.
+721 The Bridges of Madison County Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.
+722 Trois couleurs: Blanc After his wife divorces him, a Polish immigrant plots to get even with her.
+723 Falling Down An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.
+724 Dazed and Confused The adventures of high school and junior high students on the last day of school in May 1976.
+725 My Cousin Vinny Two New Yorkers accused of murder in rural Alabama while on their way back to college call in the help of one of their cousins, a loudmouth lawyer with no trial experience.
+726 Omohide poro poro A twenty-seven-year-old office worker travels to the countryside while reminiscing about her childhood in Tokyo.
+727 Delicatessen Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.
+728 Home Alone An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.
+729 The Godfather: Part III Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.
+730 When Harry Met Sally... Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.
+731 The Little Mermaid A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love.
+732 The Naked Gun: From the Files of Police Squad! Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.
+733 Planes, Trains & Automobiles A man must struggle to travel home for Thanksgiving with a lovable oaf of a shower curtain ring salesman as his only companion.
+734 Lethal Weapon Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.
+735 Blood Simple The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.
+736 On Golden Pond Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.
+737 Mad Max 2 In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community escape a horde of bandits.
+738 The Warriors In the near future, a charismatic leader summons the street gangs of New York City in a bid to take it over. When he is killed, The Warriors are falsely blamed and now must fight their way home while every other gang is hunting them down.
+739 The Muppet Movie Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.
+740 Escape from Alcatraz Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possible successful attempt at escaping from one of the most infamous prisons in the world.
+741 Midnight Express Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.
+742 Close Encounters of the Third Kind Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.
+743 The Long Goodbye Private investigator Philip Marlowe helps a friend out of a jam, but in doing so gets implicated in his wife's murder.
+744 Giù la testa A low-life bandit and an I.R.A. explosives expert rebel against the government and become heroes of the Mexican Revolution.
+745 Kelly's Heroes A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.
+746 The Jungle Book Bagheera the Panther and Baloo the Bear have a difficult time trying to convince a boy to leave the jungle for human civilization.
+"747 A Hard Day's Night Over two ""typical"" days in the life of The Beatles, the boys struggle to keep themselves and Sir Paul McCartney's mischievous grandfather in check while preparing for a live television performance."
+748 From Here to Eternity In Hawaii in 1941, a private is cruelly punished for not boxing on his unit's team, while his captain's wife and second-in-command are falling in love.

@@ -1,0 +1,26 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Ignore virtual environment
+.venv/
+env/
+venv/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore database or vectorstore folders
+db/
+*.sqlite3
+
+# VSCode or IDE folders
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
