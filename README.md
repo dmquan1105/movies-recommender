@@ -53,10 +53,10 @@ This is a **Movie Recommendation System** built with **Streamlit**, **FAISS**, a
 
 ## Dataset
 
-The app uses the IMDb Dataset of Top 1000 Movies and TV Shows, you can find it [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows) which includes:
+The app uses the IMDb Dataset of Top 1000 Movies and TV Shows, you can find it [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows), which includes:
 
 - Movie titles, genres, IMDb ratings, release years, overviews, and more.
-- The dataset is preprocessed and stored in movies_cleaned.csv.
+- The dataset is preprocessed and stored in movies.csv.
 
 ---
 
