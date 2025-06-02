@@ -6,7 +6,8 @@ import pandas as pd
 import numpy as np
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import CharacterTextSplitter
-from langchain_community.vectorstores import Chroma 
+# from langchain_community.vectorstores import Chroma 
+from langchain.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
 @st.cache_data
@@ -26,10 +27,11 @@ def load_db():
     text_splitter = CharacterTextSplitter(separator='\n', chunk_size=0, chunk_overlap=0)
     docs = text_splitter.split_documents(raw_docs)
     embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
-    db_movies = Chroma.from_documents(docs, embeddings, persist_directory='db')
+    # db_movies = Chroma.from_documents(docs, embeddings, persist_directory='db')
+    db_movies = FAISS.from_documents(docs, embeddings)
     return db_movies
 
-def retrieve_movies(db_movies: Chroma, movies: pd.DataFrame, query: str, top_k:int = 10) -> pd.DataFrame:
+def retrieve_movies(db_movies: FAISS, movies: pd.DataFrame, query: str, top_k:int = 10) -> pd.DataFrame:
     """Retrieve movies based on a query
 
     Args:
